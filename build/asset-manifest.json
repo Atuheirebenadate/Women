@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc8e41d5.css",
+    "main.js": "/static/js/main.e0d0e6ff.js",
+    "static/js/787.7ee4a70d.chunk.js": "/static/js/787.7ee4a70d.chunk.js",
+    "static/media/Frame back.png": "/static/media/Frame back.b8413d257cb07f768d1d.png",
+    "static/media/backgrd.how.it works.png": "/static/media/backgrd.how.it works.a74431bdfe2869115f30.png",
+    "static/media/grey.PNG": "/static/media/grey.36c8f571cf190a42a17b.PNG",
+    "static/media/red1.PNG": "/static/media/red1.a3e4768d8312fe9f8ea1.PNG",
+    "static/media/blue2.PNG": "/static/media/blue2.1a3f2e4bb3d9132da9e3.PNG",
+    "static/media/sos-removeb.png": "/static/media/sos-removeb.6ed97aa0985d635a93ef.png",
+    "static/media/about.png": "/static/media/about.d9f434e7894a9d6a6282.png",
+    "static/media/Gold1.PNG": "/static/media/Gold1.936b80ae553091d40ec5.PNG",
+    "static/media/Adbuzzer.jpg": "/static/media/Adbuzzer.d0a18f4f53885681ea8d.jpg",
+    "static/media/Frames.png": "/static/media/Frames.fa53c7d880ab2ff47cca.png",
+    "static/media/logo.png": "/static/media/logo.c6edd8aacad5fa9308a3.png",
+    "static/media/LED-light.png": "/static/media/LED-light.aa8d4ea40ea0fce06670.png",
+    "static/media/kuar.png": "/static/media/kuar.fe07151d6267ce2e0dff.png",
+    "static/media/calling.png": "/static/media/calling.c5d85b8f57b1b990a468.png",
+    "static/media/gps-map-navigation-pointers-.jpg": "/static/media/gps-map-navigation-pointers-.9eab08303d8dbda4c710.jpg",
+    "static/media/Nyawera.jpeg": "/static/media/Nyawera.94f32f50abf9f0cf95df.jpeg",
+    "static/media/Benadate.jpeg": "/static/media/Benadate.9d4db470e4c32f943240.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fc8e41d5.css.map": "/static/css/main.fc8e41d5.css.map",
+    "main.e0d0e6ff.js.map": "/static/js/main.e0d0e6ff.js.map",
+    "787.7ee4a70d.chunk.js.map": "/static/js/787.7ee4a70d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8e41d5.css",
+    "static/js/main.e0d0e6ff.js"
+  ]
+}
